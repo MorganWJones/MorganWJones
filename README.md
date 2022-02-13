@@ -1,4 +1,4 @@
-[![Banner](./assets/Banner.png)](https://morganuk.ga)
+[![Banner](./assets/Banner.png?)](https://morganuk.ga)
 
 <!--
 
