@@ -5,10 +5,10 @@
 <h1 align="center">Hello there! 👋</h1>
 
 <p align="center">
-  <a href="https://youtube.com/channel/UCOQy316owDNY-D8q-Q5lttw?sub_confirmation=1"><img src="" alt="YouTube Subscribe" /></a>
-  <a href="https://twitter.com/thisismorgan"><img src="" alt="Twitter" /></a>
-  <a href="https://discord.com/invite/Dk9QTEw7Ud"><img src="" alt="Discord" /></a>
-  <a href="https://twitch.tv/thisismorganj"><img src="" alt="Twitch" /></a>
+  <a href="https://youtube.com/channel/UCOQy316owDNY-D8q-Q5lttw?sub_confirmation=1"><img src="./assets/icons/youtube.svg" alt="YouTube Subscribe" width="50" /></a>
+  <a href="https://twitter.com/thisismorgan"><img src="./assets/icons/twitter.svg" alt="Twitter" width="50" /></a>
+  <a href="https://discord.com/invite/Dk9QTEw7Ud"><img src="./assets/icons/discord.svg" alt="Discord" width="50" /></a>
+  <a href="https://twitch.tv/thisismorganj"><img src="./assets/icons/twitch.svg" alt="Twitch" width="50" /></a>
 </p>
 
 <p align="center">Glad you're here 🤗</p>
@@ -28,12 +28,6 @@
 </ul>
 
 <!--
-- I'm Welsh 🏴
-- I don't actually know Welsh 😕
-- I'm a developer 🖥 (well, try)
-- I like to design 🖌 (idk if it's good or not but hey-ho)
-- I'm leaning Spanish 🇪 (and a bit of Welsh)
-
 ### My Favourite Projects
 - [Database of Things](https://github.com/MorganWJones/database-of-things)
 - [RubyCommands](https://github.com/MorganWJones/rubycommands)
