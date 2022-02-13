@@ -42,6 +42,14 @@
     <th>Also pretty good</th>
   </tr>
   <tr>
+    <th>(S)CSS</th>
+    <th>Good.</th>
+  </tr>
+  <tr>
+    <th>HTML</th>
+    <th>Very rusty, I never write pure HTML cause Sveltekit exists.</th>
+  </tr>
+  <tr>
     <th>Bash</th>
     <th>As much as I hate it I'm not that bad</th>
   </tr>
@@ -53,32 +61,18 @@
     <th>Markdown</th>
     <th>I AM A GOD AT MARKDOWN (except it's not a programming language (and this whole file isn't even technically markdown it's just a lot of HTML))</th>
   </tr>
+  <tr>
+    <th>Figma my beloved 🥰</th>
+    <th>Also not a programming language BUT I ROCK</th>
+  </tr>
 </table>
 
 <p>(If the table above didn't make you realize I'm not currently looking to be hired (because of how unspecific the values were) then woah)</p>
 
-<!--
-### My Favourite Projects
-- [Database of Things](https://github.com/MorganWJones/database-of-things)
-- [RubyCommands](https://github.com/MorganWJones/rubycommands)
-- [My Dotfiles](https://github.com/MorganWJones/dotfiles) and [mscripts](https://github.com/MorganWJones/mscripts)
-- [My Website](https://morganuk.ga) ([repo](https://github.com/MorganWJones/morganuk.ga))
+<h2 align="center">My setup</h2>
 
-### My Current Setup
-- Arch Linux
-- NeoVim
-- Git
-
-### Experience:
-- [Type|Java]Script
-	- Discord.js
-	- Express.js
-- Sveltekit
-- (S)CSS
-- A little bit of raw HTML
-- Figma my beloved 🥰
-
-### Things I am Learning/Would Like to Learn
-- Rust
-- Dart & Flutter
--->
+<ul align="center">
+  <li>Arch Linux (and Windows 11)</li>
+  <li>NeoVim or Visual Studio Code, depends on the day and the project</li>
+  <li>Git. This has been a LIFE SAVER sometimes.</li>
+</ul>
