@@ -10,10 +10,8 @@
 	<img src="https://img.shields.io/github/followers/MorganWJones?label=Follow" />
 	<img src="https://img.shields.io/youtube/channel/subscribers/UCOQy316owDNY-D8q-Q5lttw" />
 	<img src="https://img.shields.io/discord/891445488233103382" />
+	<img src="https://gpvc.arturio.dev/MorganWJones" />
 </p>
-
-![Profile views](https://gpvc.arturio.dev/MorganWJones)
-
 
 ### A Few Things About Me:
 - I'm Welsh 🏴
