@@ -2,6 +2,8 @@
 
 <h1 align="center">Hello there! 👋</h1>
 
+![yes](https://shields.io/github/followers/MorganWJones?label=Follow)
+
 <p align="center">
   <a href=""><img src="https://shields.io/github/followers/MorganWJones?label=Follow" /></a>
   <a href=""><img src="https://shields.io/twitch/status/thisismorganj?style=social" /></a>
