@@ -1,3 +1,7 @@
+[![Banner](./assets/Banner.png)](https://morganuk.ga)
+
+<!--
+
 <h1 align="center">Hello there! 👋</h1>
 
 <p align="center">Welcome to my profile! Glad you're here. 🤗</p>
@@ -43,4 +47,5 @@
 ### Things I am Learning/Would Like to Learn
 - Rust
 - Dart & Flutter
+-->
 
