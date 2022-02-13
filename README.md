@@ -27,6 +27,36 @@
   <li>I'm learning Spanish! 🇪🇸 (and a bit of Welsh)</li>
 </ul>
 
+<h2 align="center">Experience</h2>
+<table align="center">
+  <tr>
+    <th>Language</th>
+    <th>Experience</th>
+  </tr>
+  <tr>
+    <th>Java/TypeScript</th>
+    <th>Pretty good</th>
+  </tr>
+  <tr>
+    <th>Sveltekit</th>
+    <th>Also pretty good</th>
+  </tr>
+  <tr>
+    <th>Bash</th>
+    <th>As much as I hate it I'm not that bad</th>
+  </tr>
+  <tr>
+    <th>Rust</th>
+    <th>Uh, great language I just don't know much about it so far.</th>
+  </tr>
+  <tr>
+    <th>Markdown</th>
+    <th>I AM A GOD AT MARKDOWN (except it's not a programming language (and this whole file isn't even technically markdown it's just a lot of HTML))</th>
+  </tr>
+</table>
+
+<p>(If the table above didn't make you realize I'm not currently looking to be hired (because of how unspecific the values were) then woah)</p>
+
 <!--
 ### My Favourite Projects
 - [Database of Things](https://github.com/MorganWJones/database-of-things)
