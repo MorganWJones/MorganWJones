@@ -1,32 +1,33 @@
-[![Banner](./assets/Banner.png)](https://morganuk.ga)
+<a align="center" href="https://morganuk.ga" >
+  <img src="./assets/Banner.png" alt="Banner" >
+</a>
 
 <h1 align="center">Hello there! 👋</h1>
 
-![yes](https://shields.io/github/followers/MorganWJones?label=Follow)
+<p align="center">
+  <a href="https://youtube.com/channel/UCOQy316owDNY-D8q-Q5lttw?sub_confirmation=1"><img src="" alt="YouTube Subscribe" /></a>
+  <a href="https://twitter.com/thisismorgan"><img src="" alt="Twitter" /></a>
+  <a href="https://discord.com/invite/Dk9QTEw7Ud"><img src="" alt="Discord" /></a>
+  <a href="https://twitch.tv/thisismorganj"><img src="" alt="Twitch" /></a>
+</p>
+
+<p align="center">Glad you're here 🤗</p>
 
 <p align="center">
-  <a href=""><img src="https://shields.io/github/followers/MorganWJones?label=Follow" /></a>
-  <a href=""><img src="https://shields.io/twitch/status/thisismorganj?style=social" /></a>
-  <a href=""><img src="https://shields.io/twitter/follow/thisismorgan_?label=Follow" /></a>
-  <a href=""><img src="https://shields.io/youtube/channel/subscribers/UCOQy316owDNY-D8q-Q5lttw" /></a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MorganWJones" />
 </p>
+
+<h2 align="center">A Few Things About Me:</h2>
+
+<ul align="center" >
+  <li>I'm Welsh 🐲</li>
+  <li>I don't speak Welsh 🤨</li>
+  <li>I'm a developer 🤓 (Well, I try...)</li>
+  <li>I like to design 🖌️ (Is it good? Don't ask that again.)</li>
+  <li>I'm learning Spanish! 🇪🇸 (and a bit of Welsh)</li>
+</ul>
 
 <!--
-
-<p align="center">Welcome to my profile! Glad you're here. 🤗</p>
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=MorganWJones" />
-</p>
-
-<p align="center">
-	<img src="https://img.shields.io/github/followers/MorganWJones?label=Follow" />
-	<img src="https://img.shields.io/youtube/channel/subscribers/UCOQy316owDNY-D8q-Q5lttw" />
-	<img src="https://img.shields.io/discord/891445488233103382" />
-	<img src="https://gpvc.arturio.dev/MorganWJones" />
-</p>
-
-### A Few Things About Me:
 - I'm Welsh 🏴
 - I don't actually know Welsh 😕
 - I'm a developer 🖥 (well, try)
