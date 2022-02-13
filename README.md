@@ -4,6 +4,9 @@
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=MorganWJones" />
+</p>
+
+<p align="center">
 	<img src="https://img.shields.io/github/followers/MorganWJones?label=Follow" />
 	<img src="https://img.shields.io/youtube/channel/subscribers/UCOQy316owDNY-D8q-Q5lttw" />
 	<img src="https://img.shields.io/discord/891445488233103382" />
