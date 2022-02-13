@@ -1,8 +1,15 @@
-[![Banner](./assets/Banner.png?)](https://morganuk.ga)
-
-<!--
+[![Banner](./assets/Banner.png)](https://morganuk.ga)
 
 <h1 align="center">Hello there! 👋</h1>
+
+<p align="center">
+  <a href=""><img src="https://shields.io/github/followers/MorganWJones?label=Follow" /></a>
+  <a href=""><img src="https://shields.io/twitch/status/thisismorganj?style=social" /></a>
+  <a href=""><img src="https://shields.io/twitter/follow/thisismorgan_?label=Follow" /></a>
+  <a href=""><img src="https://shields.io/youtube/channel/subscribers/UCOQy316owDNY-D8q-Q5lttw" /></a> 
+</p>
+
+<!--
 
 <p align="center">Welcome to my profile! Glad you're here. 🤗</p>
 
@@ -48,4 +55,3 @@
 - Rust
 - Dart & Flutter
 -->
-
