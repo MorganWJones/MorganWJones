@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center">Hello there! 👋</h1>
 
-<!--
-**MorganWJones/MorganWJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Welcome to my profile! Glad you're here. 🤗</p>
 
-Here are some ideas to get you started:
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=MorganWJones" />
+	<img src="https://img.shields.io/github/followers/MorganWJones?label=Follow" />
+	<img src="https://img.shields.io/youtube/channel/subscribers/UCOQy316owDNY-D8q-Q5lttw" />
+	<img src="https://img.shields.io/discord/891445488233103382" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://gpvc.arturio.dev/MorganWJones)
+
+
+### A Few Things About Me:
+- I'm Welsh 🏴
+- I don't actually know Welsh 😕
+- I'm a developer 🖥 (well, try)
+- I like to design 🖌 (idk if it's good or not but hey-ho)
+- I'm leaning Spanish 🇪 (and a bit of Welsh)
+
+### My Favourite Projects
+- [Database of Things](https://github.com/MorganWJones/database-of-things)
+- [RubyCommands](https://github.com/MorganWJones/rubycommands)
+- [My Dotfiles](https://github.com/MorganWJones/dotfiles) and [mscripts](https://github.com/MorganWJones/mscripts)
+- [My Website](https://morganuk.ga) ([repo](https://github.com/MorganWJones/morganuk.ga))
+
+### My Current Setup
+- Arch Linux
+- NeoVim
+- Git
+
+### Experience:
+- [Type|Java]Script
+	- Discord.js
+	- Express.js
+- Sveltekit
+- (S)CSS
+- A little bit of raw HTML
+- Figma my beloved 🥰
+
+### Things I am Learning/Would Like to Learn
+- Rust
+- Dart & Flutter
+
