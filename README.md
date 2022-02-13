@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://youtube.com/channel/UCOQy316owDNY-D8q-Q5lttw?sub_confirmation=1"><img src="./assets/icons/youtube.svg" alt="YouTube Subscribe" width="50" /></a>
-  <a href="https://twitter.com/thisismorgan"><img src="./assets/icons/twitter.svg" alt="Twitter" width="50" /></a>
+  <a href="https://twitter.com/thisismorgan_"><img src="./assets/icons/twitter.svg" alt="Twitter" width="50" /></a>
   <a href="https://discord.com/invite/Dk9QTEw7Ud"><img src="./assets/icons/discord.svg" alt="Discord" width="50" /></a>
   <a href="https://twitch.tv/thisismorganj"><img src="./assets/icons/twitch.svg" alt="Twitch" width="50" /></a>
 </p>
