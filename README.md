@@ -25,6 +25,7 @@
   <li>I'm a developer 🤓 (Well, I try...)</li>
   <li>I like to design 🖌️ (Is it good? Don't ask that again.)</li>
   <li>I'm learning Spanish! 🇪🇸 (and a bit of Welsh)</li>
+  <li>I currently take I.T as one of my GCSEs but I am highly regretting it so I'm trying to switch it so please wish me luck omg</li>
 </ul>
 
 <h2 align="center">Experience</h2>
