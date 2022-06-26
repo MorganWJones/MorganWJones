@@ -19,21 +19,28 @@
 
 <h2 align="center">A Few Things About Me:</h2>
 
-<h1 align="center">Yn Cymraeg</h1>
-<ul align="center" >
-  <li>Dwi dod o Gymru</li>
-  <li>Dwi'n dysgy Cymraeg</li>
-  <li>ddatblygwr ydw i (Wel, dwi'n trio...)</li>
-  <li>Dwi hoffi ddylinio</li>
-</ul>
-
-<h1 align="center">In English</h1>
-<ul align="center" >
-  <li>I live in Wales</li>
-  <li>I'm learning Welsh</li>
-  <li>I'm a developer (Well, I try...)</li>
-  <li>I like designing</li>
-</ul>
+<table align="center">
+  <tr>
+    <th>Yn Cymraeg...</th>
+    <th>In English...</th>
+  </tr>
+  <tr>
+    <th>Dwi'n byw yn Cymru</th>
+    <th>I live in Wales</th>
+  </tr>
+  <tr>
+    <th>Dwi'n dysgy siarad Cymraeg (Dwi siarad dipin bach Cymraeg ar hyn o bryd)</th>
+    <th>I'm learning to speak Welsh (I speak a little bit of Welsh at the moment)</th>
+  </tr>
+  <tr>
+    <th>Ddatblygwr ydw i (Wel, dwi'n trio)</th>
+    <th>I'm a developer (Well, I try)</th>
+  </tr>
+  <tr>
+    <th>Dwi hoffi ddylinio</th>
+    <th>I like designing</th>
+  </tr>
+</table>
 
 <h2 align="center">Experience</h2>
 <table align="center">
@@ -80,7 +87,7 @@
 <h2 align="center">My setup</h2>
 
 <ul align="center">
-  <li>Arch Linux (and Windows 11)</li>
-  <li>NeoVim or Visual Studio Code, depends on the day and the project</li>
-  <li>Git. This has been a LIFE SAVER sometimes.</li>
+  <li>Manjaro KDE and Windows 11</li>
+  <li>Visual Studio Code</li>
+  <li>Git</li>
 </ul>
