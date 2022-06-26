@@ -19,13 +19,20 @@
 
 <h2 align="center">A Few Things About Me:</h2>
 
+<h1 align="center">Yn Cymraeg</h1>
 <ul align="center" >
-  <li>I'm Welsh 🐲</li>
-  <li>I don't speak Welsh 🤨</li>
-  <li>I'm a developer 🤓 (Well, I try...)</li>
-  <li>I like to design 🖌️ (Is it good? Don't ask that again.)</li>
-  <li>I'm learning Spanish! 🇪🇸 (and a bit of Welsh)</li>
-  <li>I currently take I.T as one of my GCSEs but I am highly regretting it so I'm trying to switch it so please wish me luck omg</li>
+  <li>Dwi dod o Gymru</li>
+  <li>Dwi'n dysgy Cymraeg</li>
+  <li>ddatblygwr ydw i (Wel, dwi'n trio...)</li>
+  <li>Dwi hoffi ddylinio</li>
+</ul>
+
+<h1 align="center">In English</h1>
+<ul align="center" >
+  <li>I live in Wales</li>
+  <li>I'm learning Welsh</li>
+  <li>I'm a developer (Well, I try...)</li>
+  <li>I like designing</li>
 </ul>
 
 <h2 align="center">Experience</h2>
